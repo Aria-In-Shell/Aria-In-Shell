@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&text=>>>%20Aria%20In%20Shell...%20%E2%96%88&fontColor=00FF00&fontSize=40&fontAlign=50&fontAlignY=55&stroke=00FF00&strokeWidth=2" alt="Aria In Shell Slogan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=2000&color=00FF00&background=000000&center=true&vCenter=true&width=600&height=120&lines=%3E%3E%3E+Aria+In+Shell..." alt="Dynamic Matrix Aria" />
 </p>
